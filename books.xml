@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<name>Красная шапочка</name>
+		<author_surname>Перро</author_surname>
+		<author_name>Шарль</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Проф-Пресс</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Мальчик-с-пальчик</name>
+		<author_surname>Перро</author_surname>
+		<author_name>Шарль</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>РОСМЭН</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Портрет Дориана Грея</name>
+		<author_surname>Уайльд</author_surname>
+		<author_name>Оскар</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>10000000</circulation>
+	</book>
+	<book>
+		<name>Война и Мир</name>
+		<author_surname>Толстой</author_surname>
+		<author_name>Лев</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>2</tomes>
+		<circulation>10000000</circulation>
+	</book>
+	<book>
+		<name>Война и Мир</name>
+		<author_surname>Толстой</author_surname>
+		<author_name>Лев</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>2</tomes>
+		<circulation>5000000</circulation>
+	</book>
+	<book>
+		<name>Мёртвые души</name>
+		<author_surname>Гоголь</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Васильевич</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Ревизор</name>
+		<author_surname>Гоголь</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Васильевич</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>7000000</circulation>
+	</book>
+	<book>
+		<name>Ночь перед Рождеством</name>
+		<author_surname>Гоголь</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Васильевич</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>10000</circulation>
+	</book>
+	<book>
+		<name>Вий</name>
+		<author_surname>Гоголь</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Васильевич</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>10000000</circulation>
+	</book>
+	<book>
+		<name>Белый клык</name>
+		<author_surname>Лондон</author_surname>
+		<author_name>Джек</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>500000</circulation>
+	</book>
+	<book>
+		<name>Лунная долина</name>
+		<author_surname>Лондон</author_surname>
+		<author_name>Джек</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Феникс</publisher>
+		<tomes>1</tomes>
+		<circulation>350000</circulation>
+	</book>
+	<book>
+		<name>Преступление и наказание</name>
+		<author_surname>Достоевский</author_surname>
+		<author_name>Фёдор</author_name>
+		<author_patronymic>Михайлович</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>100000000</circulation>
+	</book>
+	<book>
+		<name>Идиот</name>
+		<author_surname>Достоевский</author_surname>
+		<author_name>Фёдор</author_name>
+		<author_patronymic>Михайлович</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Бесы</name>
+		<author_surname>Достоевский</author_surname>
+		<author_name>Фёдор</author_name>
+		<author_patronymic>Михайлович</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>100000</circulation>
+	</book>
+	<book>
+		<name>Братья Карамазовы</name>
+		<author_surname>Достоевский</author_surname>
+		<author_name>Фёдор</author_name>
+		<author_patronymic>Михайлович</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Мастер и Маргарита</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000000</circulation>
+	</book>
+	<book>
+		<name>Собачье сердце</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Феникс</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Морфий</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>100000</circulation>
+	</book>
+	<book>
+		<name>Записки юного врача</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Детская литература</publisher>
+		<tomes>1</tomes>
+		<circulation>850000</circulation>
+	</book>
+	<book>
+		<name>Роковые яйца</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>100000</circulation>
+	</book>
+	<book>
+		<name>Иван Васильевич</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>250000</circulation>
+	</book>
+	<book>
+		<name>Белая гвардия</name>
+		<author_surname>Булгаков</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Афанасьевич</author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>400000</circulation>
+	</book>
+	<book>
+		<name>Господа Головлевы</name>
+		<author_surname>Салтыков-Щедрин</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Евграфович</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>1500000</circulation>
+	</book>
+	<book>
+		<name>Помпадуры и помпадурши</name>
+		<author_surname>Салтыков-Щедрин</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Евграфович</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>180000</circulation>
+	</book>
+	<book>
+		<name>История одного города</name>
+		<author_surname>Салтыков-Щедрин</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Евграфович</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>500000</circulation>
+	</book>
+	<book>
+		<name>Сказки</name>
+		<author_surname>Салтыков-Щедрин</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Евграфович</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>350000</circulation>
+	</book>
+	<book>
+		<name>Пошехонские рассказы</name>
+		<author_surname>Салтыков-Щедрин</author_surname>
+		<author_name>Михаил</author_name>
+		<author_patronymic>Евграфович</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>600000</circulation>
+	</book>
+	<book>
+		<name>Преступления и призраки</name>
+		<author_surname>Дойл</author_surname>
+		<author_name>Артур</author_name>
+		<author_patronymic>Конан</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>800000</circulation>
+	</book>
+	<book>
+		<name>Приключения Шерлока Холмса</name>
+		<author_surname>Дойл</author_surname>
+		<author_name>Артур</author_name>
+		<author_patronymic>Конан</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>10000000</circulation>
+	</book>
+	<book>
+		<name>Тень великого человека</name>
+		<author_surname>Дойл</author_surname>
+		<author_name>Артур</author_name>
+		<author_patronymic>Конан</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>450000</circulation>
+	</book>
+	<book>
+		<name>Затерянный мир</name>
+		<author_surname>Дойл</author_surname>
+		<author_name>Артур</author_name>
+		<author_patronymic>Конан</author_patronymic>
+		<publisher>РОСМЭН</publisher>
+		<tomes>1</tomes>
+		<circulation>300000</circulation>
+	</book>
+	<book>
+		<name>Знак четырёх</name>
+		<author_surname>Дойл</author_surname>
+		<author_name>Артур</author_name>
+		<author_patronymic>Конан</author_patronymic>
+		<publisher>Феникс</publisher>
+		<tomes>1</tomes>
+		<circulation>50000</circulation>
+	</book>
+	<book>
+		<name>Алиса в Стране Чудес</name>
+		<author_surname>Кэрролл</author_surname>
+		<author_name>Льюис</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>1000000</circulation>
+	</book>
+	<book>
+		<name>Алиса в Зазеркалье</name>
+		<author_surname>Кэрролл</author_surname>
+		<author_name>Льюис</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>1050000</circulation>
+	</book>
+	<book>
+		<name>Охота на Снарка</name>
+		<author_surname>Кэрролл</author_surname>
+		<author_name>Льюис</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>425000</circulation>
+	</book>
+	<book>
+		<name>История с узелками</name>
+		<author_surname>Кэрролл</author_surname>
+		<author_name>Льюис</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Центрполиграф</publisher>
+		<tomes>1</tomes>
+		<circulation>100000</circulation>
+	</book>
+	<book>
+		<name>Винни-Пух и все-все-все</name>
+		<author_surname>Милн</author_surname>
+		<author_name>Алан</author_name>
+		<author_patronymic>Александр</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>500000</circulation>
+	</book>
+	<book>
+		<name>Малыш и Карлсон</name>
+		<author_surname>Линдгрен</author_surname>
+		<author_name>Астрид</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>250000</circulation>
+	</book>
+	<book>
+		<name>Карлсон вернулся</name>
+		<author_surname>Линдгрен</author_surname>
+		<author_name>Астрид</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>300000</circulation>
+	</book>
+	<book>
+		<name>Карлсон опять шалит</name>
+		<author_surname>Линдгрен</author_surname>
+		<author_name>Астрид</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>350000</circulation>
+	</book>
+	<book>
+		<name>Незнайка в Солнечном городе</name>
+		<author_surname>Носов</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>160000</circulation>
+	</book>
+	<book>
+		<name>Незнайка на Луне</name>
+		<author_surname>Носов</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>250000</circulation>
+	</book>
+		<book>
+		<name>Большая книга Незнайки</name>
+		<author_surname>Носов</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>260000</circulation>
+	</book>
+		<book>
+		<name>Приключения Незнайки и его друзей</name>
+		<author_surname>Носов</author_surname>
+		<author_name>Николай</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>160000</circulation>
+	</book>
+	<book>
+		<name>Крокодил Гена и его друзья</name>
+		<author_surname>Успенский</author_surname>
+		<author_name>Эдуард</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>300000</circulation>
+	</book>
+	<book>
+		<name>Истории про Чебурашку и крокодила Гену</name>
+		<author_surname>Успенский</author_surname>
+		<author_name>Эдуард</author_name>
+		<author_patronymic>Николаевич</author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>220000</circulation>
+	</book>
+	<book>
+		<name>Приключения Чиполлино</name>
+		<author_surname>Родари</author_surname>
+		<author_name>Джанни</author_name>
+		<author_patronymic></author_patronymic>
+		<publisher>АСТ</publisher>
+		<tomes>1</tomes>
+		<circulation>150000</circulation>
+	</book>
+	<book>
+		<name>Федорино горе</name>
+		<author_surname>Чуковский</author_surname>
+		<author_name>Корней</author_name>
+		<author_patronymic>Иванович</author_patronymic>
+		<publisher>Эксмо</publisher>
+		<tomes>1</tomes>
+		<circulation>30000</circulation>
+	</book>
+	<book>
+		<name>Мойдодыр</name>
+		<author_surname>Чуковский</author_surname>
+		<author_name>Корней</author_name>
+		<author_patronymic>Иванович</author_patronymic>
+		<publisher>Самовар</publisher>
+		<tomes>1</tomes>
+		<circulation>50000</circulation>
+	</book>
+	<book>
+		<name>Тараканище</name>
+		<author_surname>Чуковский</author_surname>
+		<author_name>Корней</author_name>
+		<author_patronymic>Иванович</author_patronymic>
+		<publisher>Азбука</publisher>
+		<tomes>1</tomes>
+		<circulation>80000</circulation>
+	</book>
+</books>

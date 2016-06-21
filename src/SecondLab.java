@@ -4,6 +4,6 @@ public class SecondLab
     {
         WorkSpace workspace = new WorkSpace();
 
-        workspace.CreateWorkSpace();
+        workspace.createWorkSpace();
     }
 }
